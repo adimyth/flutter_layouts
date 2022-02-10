@@ -8,6 +8,10 @@ A simple app depicting the different layouts in Flutter.
 * ⏳ ListView
 * ⏳ Stack
 
+
+https://user-images.githubusercontent.com/26377913/153432745-4a952ee3-bcea-472b-8fcb-e2bf4c750938.mp4
+
+
 Inspiration taken from [Flutter Layout Basics: Row, Column, Stack, Expanded, Container, ListView, GridView [2021]](https://www.youtube.com/watch?v=yYxueTNIDlA) by Johannes Milke
 
 ## Theme
